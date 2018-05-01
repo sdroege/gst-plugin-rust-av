@@ -10,6 +10,7 @@ gstreamer = { git = "https://github.com/sdroege/gstreamer-rs" }
 gstreamer-audio = { git = "https://github.com/sdroege/gstreamer-rs" }
 gstreamer-base = { git = "https://github.com/sdroege/gstreamer-rs" }
 #gstreamer-video = { git = "https://github.com/sdroege/gstreamer-rs" }
+gobject-subclass = { git = "https://github.com/sdroege/gobject-subclass" }
 gst-plugin = { git = "https://github.com/sdroege/gst-plugin-rs" }
 #av-bitstream = { git = "https://github.com/rust-av/rust-av" }
 av-data = { git = "https://github.com/rust-av/rust-av" }

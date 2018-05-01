@@ -22,10 +22,9 @@ use gst::prelude::*;
 use gst_audio;
 use gst_audio::prelude::*;
 
+use gobject_subclass::object::*;
 use gst_plugin::bytes::*;
 use gst_plugin::element::*;
-use gst_plugin::object::*;
-use gst_plugin::properties::*;
 
 use std::io::Write;
 use std::sync::{Arc, Mutex};
